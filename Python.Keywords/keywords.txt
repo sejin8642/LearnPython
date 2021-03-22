@@ -1,0 +1,28 @@
+try, except, raise, finally
+nonlocal, global, lambda
+yield, assert
+with
+
+False
+class
+is
+return
+None
+continue
+for
+True
+def
+from
+while
+and
+del
+not
+as
+elif
+if
+or
+else
+import
+pass
+break
+in
