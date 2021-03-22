@@ -30,9 +30,6 @@ There are many websites where you can learn Python from. Here are few:
 * [Real Python](https://realpytyon.com)
 * [Learn Python](https://www.learnpython.org)
  
-### Git commands 
-
-
 ## Created with With
 
 * [Jupyter Lab](http://www.jupyter.org) - The web-based text editor used
