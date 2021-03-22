@@ -1,6 +1,6 @@
-# Git Practice 
+# Learn Python 
 
-This Git repository was created to archive Python scripts written to teach basic Python concepts.
+This Git repository was created to archive Python scripts written to teach basic Python Concepts.
 
 ## Getting Started
 
